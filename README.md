@@ -1,4 +1,10 @@
-[VSCode Sample Extension](https://github.com/microsoft/vscode-extension-samples/tree/main/helloworld-web-sample) built and published as [hadesarchitect.helloworld-web-sample](https://open-vsx.org/extension/hadesarchitect/helloworld-web-sample).
+# Bug Report 
+
+## Problem Description
+
+Plugins installed via `.gitpod.yml` configuration file aren't properly installed and not operational.
+
+Demo extension: [VSCode Sample Extension](https://github.com/microsoft/vscode-extension-samples/tree/main/helloworld-web-sample) built and published as [hadesarchitect.helloworld-web-sample](https://open-vsx.org/extension/hadesarchitect/helloworld-web-sample). 
 
 ## Steps to reproduce
 
