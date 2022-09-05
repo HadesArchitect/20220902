@@ -53,3 +53,8 @@ After _reloading of the browser_, the extension works as expected.
 ### Remote Extension Host / Worker Extension Host
 
 Both logs have no mentions of the `hadesarchitect.helloworld-web-sample`
+
+### Browser
+
+<img width="1066" alt="image" src="https://user-images.githubusercontent.com/1742301/188492796-096042a2-903e-4b4c-969c-8a8d70394867.png">
+<img width="1053" alt="image" src="https://user-images.githubusercontent.com/1742301/188492825-92996556-7e5b-4b94-b870-15ef3fd1bd20.png">
